@@ -3,7 +3,7 @@
 @section('title', 'Inicio - Registro IP')
 
 @section('content')
-    <h2 class="text-center mb-5">Selecciona una Opción</h2> 
+    <h2 class="text-center mb-5">Selecciona una Opción de la lista</h2> 
 
     <div class="row g-4 justify-content-center">
         <div class="col-md-4 col-lg-3">
